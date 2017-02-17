@@ -1,3 +1,3 @@
-# Python
+# JavaScript
 
-Basic Algorithms of Computer Science in Python.
+Basic Algorithms of Computer Science in JavaScript.
